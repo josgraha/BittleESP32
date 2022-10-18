@@ -1,0 +1,9 @@
+*.docx
+*.rar
+*.DS_Store
+
+# git submodules
+Adafruit-PWM-Servo-Driver-Library/
+mpu6050/
+PetoiESP32Servo/
+Adafruit_NeoPixel/
